@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>大毛</title>
+    <link>https://juneitei.github.io/</link>
+    <description>Recent content on 大毛</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 03 Mar 2014 13:54:53 +0000</lastBuildDate>
+    <atom:link href="https://juneitei.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大樹</title>
+      <link>https://juneitei.github.io/posts/tree/</link>
+      <pubDate>Mon, 03 Mar 2014 13:54:53 +0000</pubDate>
+      <guid>https://juneitei.github.io/posts/tree/</guid>
+      <description>大樹よ もし葉が 天国に届きたいなら 根は地獄にしっかりと根を張らなければならない</description>
+    </item>
+  </channel>
+</rss>
