@@ -19,19 +19,18 @@
 🇦🇺 The Poetry Collection of Dai Mo - Source Code  
 🇳🇿 The Poetry Collection of Dai Mo - Source Code  
 🇻🇪 La Colección de Poesía de Dai Mo - Código Fuente  
-🇮🇱 אוסף השירה של דאי מו - קוד מקור (Hebrew)  
-🇸🇦 مجموعة شعر داي مو - كود المصدر (Arabic)  
-🇹🇭 การรวบรวมบทกวีของ Dai Mo - รหัสแหล่ง (Thai)  
-🇭🇺 Dai Mo verseskötete - Forráskód (Hungarian)  
-🇲🇹 Il-Kollezzjoni ta’ Poeżija ta’ Dai Mo - Kodiċi Sors (Maltese)  
-🇵🇱 Zbiór Wierszy Dai Mo - Kod Źródłowy (Polish)  
-🇻🇳 Tuyển Tập Thơ của Dai Mo - Mã Nguồn (Vietnamese)  
-🇦🇱 Koleksioni i Poezisë të Dai Mo - Kodi Burim (Albanian)  
-🇪🇪 Dai Mo luulekogumik - Allikaood (Estonian)  
-🇦🇩 La Col·lecció de Poesia de Dai Mo - Codi Font (Catalan)  
-🇲🇰 Збирка поезијата на Даи Мо - Изворен код (Macedonian)  
-🇬🇷 Η Συλλογή Ποιημάτων του Δάι Μο - Κωδικός Πηγής (Greek)  
-🇰🇿 Дай Моның поэзия жинағы - Дереккөз коды (Kazakh)  
-🇲🇦 مجموعة شعر داي مو - كود المصدر (Arabic, Morocco)  
-🇰🇷 다이모의 시집 - 소스 코드 (Korean)  
-🇺🇦 Збірка поезії Дай Мо - Код джерела (Ukrainian)  
+🇮🇱 אוסף השירה של דאי מו - קוד מקור  
+🇸🇦 مجموعة شعر داي مو - كود المصدر  
+🇹🇭 การรวบรวมบทกวีของ Dai Mo - รหัสแหล่ง  
+🇭🇺 Dai Mo verseskötete - Forráskód  
+🇲🇹 Il-Kollezzjoni ta’ Poeżija ta’ Dai Mo - Kodiċi Sors  
+🇵🇱 Zbiór Wierszy Dai Mo - Kod Źródłowy  
+🇻🇳 Tuyển Tập Thơ của Dai Mo - Mã Nguồn  
+🇦🇱 Koleksioni i Poezisë të Dai Mo - Kodi Burim  
+🇪🇪 Dai Mo luulekogumik - Allikaood  
+🇦🇩 La Col·lecció de Poesia de Dai Mo - Codi Font  
+🇲🇰 Збирка поезијата на Даи Мо - Изворен код  
+🇬🇷 Η Συλλογή Ποιημάτων του Δάι Μο - Κωδικός Πηγής  
+🇰🇿 Дай Моның поэзия жинағы - Дереккөз коды  
+🇲🇦 مجموعة شعر داي مو - كود المصدر  
+🇺🇦 Збірка поезії Дай Мо - Код джерела  
