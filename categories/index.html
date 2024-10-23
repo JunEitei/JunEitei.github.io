@@ -37,7 +37,7 @@
         align-items:center
     ">
         <div>
-            <a href="/" class="mr-3 font:extralight">
+            <a href="#" class="mr-3 font:extralight" id="homeButton">
               
               ☰
               
@@ -52,6 +52,13 @@
     </div>
 </nav>
 
+<script>
+    document.getElementById('homeButton').addEventListener('click', function(event) {
+        event.preventDefault(); 
+        var lang = 'ja'; 
+        window.location.href = '/' + lang; 
+    });
+</script>
     <div class="d:flex flex:column@<=sm pt:90 px:24 jc:center gap:44 word-break:break-word">
         <div class="max-w:700 w:full box:content-box">
 <div>
@@ -102,7 +109,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2021-02-22/">
                             <div>大</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Feb 22, 2021</time></div>
+                        <div class="mt:12 f:fade-70"><time>2021/02/22</time></div>
                     </div>
                 </li>
                 <li>
@@ -110,7 +117,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2021-01-23/">
                             <div>雨</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Jan 23, 2021</time></div>
+                        <div class="mt:12 f:fade-70"><time>2021/01/23</time></div>
                     </div>
                 </li>
                 <li>
@@ -118,7 +125,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2020-06-01/">
                             <div>は</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Jun 1, 2020</time></div>
+                        <div class="mt:12 f:fade-70"><time>2020/06/01</time></div>
                     </div>
                 </li>
                 <li>
@@ -126,7 +133,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2020-05-15/">
                             <div>虹</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>May 15, 2020</time></div>
+                        <div class="mt:12 f:fade-70"><time>2020/05/15</time></div>
                     </div>
                 </li>
                 <li>
@@ -134,7 +141,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2020-04-13/">
                             <div>が</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Apr 13, 2020</time></div>
+                        <div class="mt:12 f:fade-70"><time>2020/04/13</time></div>
                     </div>
                 </li>
                 <li>
@@ -142,7 +149,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2020-01-16/">
                             <div>出</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Jan 16, 2020</time></div>
+                        <div class="mt:12 f:fade-70"><time>2020/01/16</time></div>
                     </div>
                 </li>
                 <li>
@@ -150,7 +157,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2020-01-13/">
                             <div>る</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Jan 13, 2020</time></div>
+                        <div class="mt:12 f:fade-70"><time>2020/01/13</time></div>
                     </div>
                 </li>
                 <li>
@@ -158,7 +165,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2019-07-13/">
                             <div>至</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Jul 13, 2019</time></div>
+                        <div class="mt:12 f:fade-70"><time>2019/07/13</time></div>
                     </div>
                 </li>
                 <li>
@@ -166,7 +173,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2019-05-17/">
                             <div>降</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>May 17, 2019</time></div>
+                        <div class="mt:12 f:fade-70"><time>2019/05/17</time></div>
                     </div>
                 </li>
                 <li>
@@ -174,7 +181,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2019-05-15/">
                             <div>り</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>May 15, 2019</time></div>
+                        <div class="mt:12 f:fade-70"><time>2019/05/15</time></div>
                     </div>
                 </li>
                 <li>
@@ -182,7 +189,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2019-04-13/">
                             <div>や</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Apr 13, 2019</time></div>
+                        <div class="mt:12 f:fade-70"><time>2019/04/13</time></div>
                     </div>
                 </li>
                 <li>
@@ -190,7 +197,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2018-07-17/">
                             <div>朝</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Jul 17, 2018</time></div>
+                        <div class="mt:12 f:fade-70"><time>2018/07/17</time></div>
                     </div>
                 </li>
                 <li>
@@ -198,7 +205,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2018-07-11/">
                             <div>夢</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Jul 11, 2018</time></div>
+                        <div class="mt:12 f:fade-70"><time>2018/07/11</time></div>
                     </div>
                 </li>
                 <li>
@@ -206,7 +213,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2018-05-23/">
                             <div>を</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>May 23, 2018</time></div>
+                        <div class="mt:12 f:fade-70"><time>2018/05/23</time></div>
                     </div>
                 </li>
                 <li>
@@ -214,7 +221,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2018-04-15/">
                             <div>運</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Apr 15, 2018</time></div>
+                        <div class="mt:12 f:fade-70"><time>2018/04/15</time></div>
                     </div>
                 </li>
                 <li>
@@ -222,7 +229,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2018-04-13/">
                             <div>ん</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Apr 13, 2018</time></div>
+                        <div class="mt:12 f:fade-70"><time>2018/04/13</time></div>
                     </div>
                 </li>
                 <li>
@@ -230,7 +237,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2018-03-03/">
                             <div>で</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Mar 3, 2018</time></div>
+                        <div class="mt:12 f:fade-70"><time>2018/03/03</time></div>
                     </div>
                 </li>
                 <li>
@@ -238,7 +245,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2018-02-16/">
                             <div>く</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Feb 16, 2018</time></div>
+                        <div class="mt:12 f:fade-70"><time>2018/02/16</time></div>
                     </div>
                 </li>
                 <li>
@@ -246,7 +253,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2017-11-11/">
                             <div>み</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Nov 11, 2017</time></div>
+                        <div class="mt:12 f:fade-70"><time>2017/11/11</time></div>
                     </div>
                 </li>
                 <li>
@@ -254,7 +261,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2017-11-06/">
                             <div>た</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Nov 6, 2017</time></div>
+                        <div class="mt:12 f:fade-70"><time>2017/11/06</time></div>
                     </div>
                 </li>
                 <li>
@@ -262,7 +269,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2017-11-05/">
                             <div>い</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Nov 5, 2017</time></div>
+                        <div class="mt:12 f:fade-70"><time>2017/11/05</time></div>
                     </div>
                 </li>
                 <li>
@@ -270,7 +277,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2017-11-04/">
                             <div>わ</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Nov 4, 2017</time></div>
+                        <div class="mt:12 f:fade-70"><time>2017/11/04</time></div>
                     </div>
                 </li>
                 <li>
@@ -278,7 +285,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2017-10-30/">
                             <div>う</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Oct 30, 2017</time></div>
+                        <div class="mt:12 f:fade-70"><time>2017/10/30</time></div>
                     </div>
                 </li>
                 <li>
@@ -286,7 +293,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2017-10-29/">
                             <div>ち</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Oct 29, 2017</time></div>
+                        <div class="mt:12 f:fade-70"><time>2017/10/29</time></div>
                     </div>
                 </li>
                 <li>
@@ -294,7 +301,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2017-10-27/">
                             <div>も</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Oct 27, 2017</time></div>
+                        <div class="mt:12 f:fade-70"><time>2017/10/27</time></div>
                     </div>
                 </li>
                 <li>
@@ -302,7 +309,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2017-10-05/">
                             <div>君</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Oct 5, 2017</time></div>
+                        <div class="mt:12 f:fade-70"><time>2017/10/05</time></div>
                     </div>
                 </li>
                 <li>
@@ -310,7 +317,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2017-09-21/">
                             <div>の</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Sep 21, 2017</time></div>
+                        <div class="mt:12 f:fade-70"><time>2017/09/21</time></div>
                     </div>
                 </li>
                 <li>
@@ -318,7 +325,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2017-08-30/">
                             <div>そ</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Aug 30, 2017</time></div>
+                        <div class="mt:12 f:fade-70"><time>2017/08/30</time></div>
                     </div>
                 </li>
                 <li>
@@ -326,7 +333,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2017-03-03/">
                             <div>ば</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Mar 3, 2017</time></div>
+                        <div class="mt:12 f:fade-70"><time>2017/03/03</time></div>
                     </div>
                 </li>
                 <li>
@@ -334,7 +341,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2017-02-15/">
                             <div>に</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Feb 15, 2017</time></div>
+                        <div class="mt:12 f:fade-70"><time>2017/02/15</time></div>
                     </div>
                 </li>
                 <li>
@@ -342,7 +349,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2017-01-09/">
                             <div>か</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Jan 9, 2017</time></div>
+                        <div class="mt:12 f:fade-70"><time>2017/01/09</time></div>
                     </div>
                 </li>
                 <li>
@@ -350,7 +357,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2016-12-24/">
                             <div>ら</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Dec 24, 2016</time></div>
+                        <div class="mt:12 f:fade-70"><time>2016/12/24</time></div>
                     </div>
                 </li>
                 <li>
@@ -358,7 +365,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2016-11-30/">
                             <div>愛</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Nov 30, 2016</time></div>
+                        <div class="mt:12 f:fade-70"><time>2016/11/30</time></div>
                     </div>
                 </li>
                 <li>
@@ -366,7 +373,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2014-10-05/">
                             <div>し</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Oct 5, 2014</time></div>
+                        <div class="mt:12 f:fade-70"><time>2014/10/05</time></div>
                     </div>
                 </li>
                 <li>
@@ -374,7 +381,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2013-10-03/">
                             <div>て</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Mar 3, 2013</time></div>
+                        <div class="mt:12 f:fade-70"><time>2013/03/03</time></div>
                     </div>
                 </li>
                 <li>
@@ -382,7 +389,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2012-01-12/">
                             <div>いる</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Jan 12, 2012</time></div>
+                        <div class="mt:12 f:fade-70"><time>2012/01/12</time></div>
                     </div>
                 </li>
                 <li>
@@ -390,7 +397,7 @@
                         <a class="f:24 font:semibold" href="https://dm-o.netlify.app/posts/2011-09-24/">
                             <div>っ</div>
                         </a>
-                        <div class="mt:12 f:fade-70"><time>Sep 24, 2011</time></div>
+                        <div class="mt:12 f:fade-70"><time>2011/09/24</time></div>
                     </div>
                 </li>
     </ul>

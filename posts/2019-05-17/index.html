@@ -41,7 +41,7 @@
         align-items:center
     ">
         <div>
-            <a href="/" class="mr-3 font:extralight">
+            <a href="#" class="mr-3 font:extralight" id="homeButton">
               
               ☰
               
@@ -56,6 +56,13 @@
     </div>
 </nav>
 
+<script>
+    document.getElementById('homeButton').addEventListener('click', function(event) {
+        event.preventDefault(); 
+        var lang = 'ja'; 
+        window.location.href = '/' + lang; 
+    });
+</script>
     <div class="d:flex flex:column@<=sm pt:90 px:24 jc:center gap:44 word-break:break-word">
         <div class="max-w:700 w:full box:content-box">
 <article class="box:border-box pt:32">
