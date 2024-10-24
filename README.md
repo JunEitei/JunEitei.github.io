@@ -33,9 +33,7 @@
 | .ro         | Română             | 🇷🇴                |
 | .sv         | Svenska            | 🇸🇪                |
 
-# Python スクリプト
-
-以下は、Markdown ファイルをスウェーデン語に翻訳する Python スクリプトやわ。
+### 原文は日本語で書かれてんねん。以下は、翻訳する Python スクリプトやわ。
 
 ```python
 import os
