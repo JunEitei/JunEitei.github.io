@@ -16,9 +16,9 @@
   	•	.fi - フィンランド語（Finnish） 🇫🇮  
   	•	.ms - マレー語（Malay） 🇲🇾  
 	•	.sw - スワヒリ語（Swahili） 🇰🇪  
+ 	•	.th - タイ語（Thai） 🇹🇭  
  翻訳待ち  
 	•	.tr - トルコ語（Turkish） 🇹🇷  
 	•	.vi - ベトナム語（Vietnamese） 🇻🇳  
-	•	.th - タイ語（Thai） 🇹🇭  
 	•	.el - ギリシャ語（Greek） 🇬🇷  
 	•	.hu - ハンガリー語（Hungarian） 🇭🇺  
