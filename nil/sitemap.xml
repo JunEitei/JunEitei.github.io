@@ -100,6 +100,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="nil"
                 href="https://dm-o.netlify.app/nil/"
                 />
@@ -202,6 +207,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="nil"
                 href="https://dm-o.netlify.app/nil/categories/"
                 />
@@ -301,6 +311,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"

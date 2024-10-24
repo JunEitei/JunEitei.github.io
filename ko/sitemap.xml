@@ -96,6 +96,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="nil"
                 href="https://dm-o.netlify.app/nil/"
                 />
@@ -199,6 +204,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/"
                 />
@@ -294,6 +304,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2021-02-22/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2021-02-22/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -395,6 +410,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2021-01-23/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2021-01-23/"
                 />
@@ -490,6 +510,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2020-06-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2020-06-01/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -591,6 +616,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2020-05-15/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2020-05-15/"
                 />
@@ -686,6 +716,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2020-04-13/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2020-04-13/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -787,6 +822,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2020-01-16/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2020-01-16/"
                 />
@@ -882,6 +922,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2020-01-13/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2020-01-13/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -983,6 +1028,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2019-07-13/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2019-07-13/"
                 />
@@ -1078,6 +1128,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2019-05-17/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2019-05-17/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1179,6 +1234,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2019-05-15/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2019-05-15/"
                 />
@@ -1274,6 +1334,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2019-04-13/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2019-04-13/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1375,6 +1440,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2018-07-17/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2018-07-17/"
                 />
@@ -1470,6 +1540,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2018-07-11/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2018-07-11/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1571,6 +1646,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2018-05-23/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2018-05-23/"
                 />
@@ -1666,6 +1746,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2018-04-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2018-04-15/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1767,6 +1852,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2018-04-13/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2018-04-13/"
                 />
@@ -1862,6 +1952,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2018-03-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2018-03-03/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1963,6 +2058,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2018-02-16/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2018-02-16/"
                 />
@@ -2058,6 +2158,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2017-11-11/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2017-11-11/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -2159,6 +2264,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2017-11-06/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2017-11-06/"
                 />
@@ -2254,6 +2364,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2017-11-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2017-11-05/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -2355,6 +2470,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2017-11-04/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2017-11-04/"
                 />
@@ -2450,6 +2570,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2017-10-30/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2017-10-30/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -2551,6 +2676,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2017-10-29/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2017-10-29/"
                 />
@@ -2646,6 +2776,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2017-10-27/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2017-10-27/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -2747,6 +2882,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2017-10-05/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2017-10-05/"
                 />
@@ -2842,6 +2982,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2017-09-21/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2017-09-21/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -2943,6 +3088,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2017-08-30/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2017-08-30/"
                 />
@@ -3038,6 +3188,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2017-03-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2017-03-03/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -3139,6 +3294,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2017-02-15/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2017-02-15/"
                 />
@@ -3234,6 +3394,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2017-01-09/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2017-01-09/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -3335,6 +3500,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2016-12-24/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2016-12-24/"
                 />
@@ -3430,6 +3600,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2016-11-30/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2016-11-30/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -3531,6 +3706,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2014-10-05/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2014-10-05/"
                 />
@@ -3626,6 +3806,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/posts/2013-10-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2013-10-03/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -3727,6 +3912,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2012-01-12/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2012-01-12/"
                 />
@@ -3825,6 +4015,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/posts/2011-09-24/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://dm-o.netlify.app/ko/posts/2011-09-24/"
                 />
@@ -3919,6 +4114,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -4021,6 +4221,11 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://dm-o.netlify.app/tr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dm-o.netlify.app/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
