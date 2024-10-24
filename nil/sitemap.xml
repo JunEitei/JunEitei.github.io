@@ -150,6 +150,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://dm-o.netlify.app/nl/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="nil"
                 href="https://dm-o.netlify.app/nil/"
                 />
@@ -302,6 +307,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://dm-o.netlify.app/nl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="nil"
                 href="https://dm-o.netlify.app/nil/categories/"
                 />
@@ -451,6 +461,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="https://dm-o.netlify.app/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://dm-o.netlify.app/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
