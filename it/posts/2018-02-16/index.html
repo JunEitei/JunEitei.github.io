@@ -113,6 +113,23 @@ Perché in realtà indossa una maschera chiamata &ldquo;non indossare una masche
             
         </div>
     </div>
+<script>
+    const audios = document.querySelectorAll('audio');
+
+    audios.forEach(audio => {
+        audio.addEventListener('play', function() {
+            const currentAudio = this;
+            
+            audios.forEach(otherAudio => {
+                if (otherAudio !== currentAudio && !otherAudio.paused) {
+                    otherAudio.pause();
+                    otherAudio.currentTime = 0;  
+                }
+            });
+        });
+    });
+</script>
 </body>
 
 </html>
+

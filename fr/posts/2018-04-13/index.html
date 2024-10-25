@@ -109,6 +109,23 @@ C&rsquo;est parce que tes pupilles sont rondes.</p>
             
         </div>
     </div>
+<script>
+    const audios = document.querySelectorAll('audio');
+
+    audios.forEach(audio => {
+        audio.addEventListener('play', function() {
+            const currentAudio = this;
+            
+            audios.forEach(otherAudio => {
+                if (otherAudio !== currentAudio && !otherAudio.paused) {
+                    otherAudio.pause();
+                    otherAudio.currentTime = 0;  
+                }
+            });
+        });
+    });
+</script>
 </body>
 
 </html>
+
